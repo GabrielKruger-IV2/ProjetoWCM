@@ -1,0 +1,16 @@
+application.type=widget
+application.code=KrugerConsultaProcessos
+application.title=KrugerConsultaProcessos
+application.description=KrugerConsultaProcessos
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=nb-gsilva
+developer.name=gabriel.silva
+developer.url=http://www.fluig.com
+application.uiwidget=true
+application.mobileapp=true
+view.file=view.ftl
+edit.file=edit.ftl
+locale.file.base.name=KrugerConsultaProcessos
+application.resource.js.1=/resources/js/KrugerConsultaProcessos.js
+application.resource.css.2=/resources/css/KrugerConsultaProcessos.css
